@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">esp32 data receiver</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scan_qr_code_hint">Scan QR code to get ESP32 MAC Address</string>
+    <string name="lux">Lux: </string>
+    <string name="temperature">Temperature: </string>
+    <string name="humidity">Humidity: </string>
+    <string name="reconnect">Reconnect</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="status_not_connected">Status: Not Connected</string>
+    <string name="status_connected">Status: Connected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="mac_address_text">Scan QR code to get ESP32 MAC Address</string>
+    <string name="lux_text">Lux: </string>
+    <string name="temperature_text">Temperature: </string>
+    <string name="humidity_text">Humidity: </string>
+    <string name="status_indicator">Status Indicator</string>
+    <string name="scan_qr_code_button">Scan QR Code</string>
+    <string name="reconnect_button">Reconnect</string>
+    <string name="start_button">Start</string>
+    <string name="scan_button">Scan QR Code</string>
+    <string name="scan_qr_code_to_get_esp32_mac_address">Scan QR code to get ESP32 MAC Address</string>
+
+    <string name="lux_default">Lux: --</string>
+    <string name="temperature_default">Temperature: --</string>
+    <string name="humidity_default">Humidity: --</string>
+    <string name="status_connecting">Status: Connecting...</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="esp32_mac_address">ESP32 MAC Address: %1$s</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
